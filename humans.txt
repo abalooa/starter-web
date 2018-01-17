@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexander Abaloo	aabaloo@hotmail.com	@aabaloo
 
 # THANKS
 
